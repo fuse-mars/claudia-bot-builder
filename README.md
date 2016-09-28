@@ -1,6 +1,9 @@
 # Claudia Bot Builder
 
-[![Build Status](https://travis-ci.org/claudiajs/claudia-api-builder.svg?branch=master)](https://travis-ci.org/claudiajs/claudia-api-builder)
+[![npm](https://img.shields.io/npm/v/claudia-bot-builder.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/claudia-bot-builder)
+[![npm](https://img.shields.io/npm/dt/claudia-bot-builder.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/claudia-bot-builder)
+[![npm](https://img.shields.io/npm/l/claudia-bot-builder.svg?maxAge=2592000?style=plastic)](https://github.com/claudiajs/claudia-bot-builder/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/claudiajs/claudia-bot-builder.svg?branch=master)](https://travis-ci.org/claudiajs/claudia-bot-builder)
 [![Join the chat at https://gitter.im/claudiajs/claudia](https://badges.gitter.im/claudiajs/claudia.svg)](https://gitter.im/claudiajs/claudia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 _Claudia Bot Builder_ helps developers create and deploy chat-bots for various platforms in minutes to AWS Lambda. It simplifies the messaging workflows, automatically sets up the correct web hooks, and guides you through configuration steps, so that you can focus on important business problems and not have to worry about infrastructure code.
@@ -82,7 +85,11 @@ See the [Release History](RELEASES.md)
 - [DotCom Bot](http://dotcom.montoyaindustries.com) - Search & buy domain names and check @usernames fast on Slack & Facebook Messenger!
 - [Eksplorer](http://eksplo.weebly.com) - The Facebook chat bot that will help you discover amazing things in your neighborhood.
 - [Fact Bot](https://github.com/claudiajs/example-projects/tree/master/bot-with-buttons) - The bot will query WikiData for anything you send it and print out the facts.
+- [Pokemon Lookup bot](https://www.facebook.com/PokedexLookup/) - Simple pokemon lookup bot, [source code](https://github.com/kirkins/PokedexBot).
+- [QRCode Bot](https://www.facebook.com/QRCode-Bot-1779956152289103/) - Artistic QR code maker, [source code](https://github.com/jveres/qrcode-bot).
+- [Robbert](https://www.facebook.com/Robbert-1119546194768078) - General chatbot.
 - [Space Explorer Bot](https://github.com/stojanovic/space-explorer-bot) - A simple Messenger chat bot that uses NASA's API to get the data and images about the Space.
+- [Vacation tracker bot](http://vacationtrackerbot.com/) - A simple Slack bot to help you manage your team’s vacations, sick days and days off.
 
 Building something cool with Claudia Bot Builder? Let us know or send a PR to update this list!
 
