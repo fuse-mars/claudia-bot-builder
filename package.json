@@ -1,5 +1,5 @@
 {
-  "name": "claudia-bot-builder",
+  "name": "claudia-bot-builder-fork",
   "version": "2.0.0",
   "description": "Create chat-bots for various platforms and deploy to AWS Lambda quickly",
   "main": "index.js",
